@@ -28,4 +28,4 @@ You will also see any lint errors in the console.
 ## Usage
 
 Using Starships SPA
-![Using Starships SPA](/assets/Usage.gif)
+![Using Starships SPA](/src/assets/Usage.gif)
